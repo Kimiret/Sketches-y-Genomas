@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/ralsei/Escritorio/Topicos en Volumen de Datos/Sketches-y-Genomas/build",
+  "command": "/usr/bin/g++  -I\"/home/ralsei/Escritorio/Topicos en Volumen de Datos/Sketches-y-Genomas/smhasher\" -g -o CMakeFiles/hyperloglog.dir/main.cpp.o -c \"/home/ralsei/Escritorio/Topicos en Volumen de Datos/Sketches-y-Genomas/main.cpp\"",
+  "file": "/home/ralsei/Escritorio/Topicos en Volumen de Datos/Sketches-y-Genomas/main.cpp",
+  "output": "CMakeFiles/hyperloglog.dir/main.cpp.o"
+},
+{
+  "directory": "/home/ralsei/Escritorio/Topicos en Volumen de Datos/Sketches-y-Genomas/build/smhasher",
+  "command": "/usr/bin/g++  -I\"/home/ralsei/Escritorio/Topicos en Volumen de Datos/Sketches-y-Genomas/smhasher\" -g -o CMakeFiles/smhasher.dir/MurmurHash3.cpp.o -c \"/home/ralsei/Escritorio/Topicos en Volumen de Datos/Sketches-y-Genomas/smhasher/MurmurHash3.cpp\"",
+  "file": "/home/ralsei/Escritorio/Topicos en Volumen de Datos/Sketches-y-Genomas/smhasher/MurmurHash3.cpp",
+  "output": "smhasher/CMakeFiles/smhasher.dir/MurmurHash3.cpp.o"
+}
+]

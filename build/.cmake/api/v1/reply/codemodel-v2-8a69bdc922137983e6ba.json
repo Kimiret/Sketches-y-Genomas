@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "smhasher",
+					"jsonFile" : "directory-smhasher-Debug-2c4c7f7e270e9ed53cce.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "smhasher",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "Trabajo1",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hyperloglog::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hyperloglog-Debug-63a1c691e3d55de4f8a3.json",
+					"name" : "hyperloglog",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "smhasher::@b6642fe5b43f028d42a5",
+					"jsonFile" : "target-smhasher-Debug-51eb240294da35a7d6b8.json",
+					"name" : "smhasher",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/ralsei/Escritorio/Topicos en Volumen de Datos/Sketches-y-Genomas/build",
+		"source" : "/home/ralsei/Escritorio/Topicos en Volumen de Datos/Sketches-y-Genomas"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

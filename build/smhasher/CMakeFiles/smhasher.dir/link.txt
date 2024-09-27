@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsmhasher.a CMakeFiles/smhasher.dir/MurmurHash3.cpp.o
+/usr/bin/ranlib libsmhasher.a

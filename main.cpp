@@ -11,7 +11,7 @@
 using namespace std;
 using namespace std::filesystem;
 
-const string g_path = "/home/ralsei/Escritorio/Topicos en Volumen de Datos/Trabajo1/Genomes/";
+const string g_path = "/Genomes/"; //actualizar con la direccion del directorio final
 
 class HyperLogLog{
     private: 
